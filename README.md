@@ -6,8 +6,8 @@ You can read the document on how to use the application (in Thai) in this reposi
 
 ## Authors
 There two contributors to this project:
-[athensclub](https://github.com/athensclub) (me)
-[Zenithz99](https://github.com/Zenithz99)
+[athensclub](https://github.com/athensclub) ,
+[ThanaphomH](https://github.com/ThanaphomH)
 
 ## Screenshots
 Here are a few screenshots of the program.
